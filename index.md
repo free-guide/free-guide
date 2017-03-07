@@ -4,5 +4,7 @@ Welcome to the free guide. Santa Cruz edition.
 
 ### Shelter & Help
 
-* Winter Shelter **4pm daily** _pickup past the tannery_ 1200 River St.
+Service | Times | Description | Address | Phone
+--------|-------|-------------|---------|------
+**Winter Shelter** | 4pm daily | Pickup past The Tannery | 1200 River St.
 
