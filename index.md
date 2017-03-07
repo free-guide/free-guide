@@ -1,6 +1,8 @@
-# This is a test
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-  * Item 3c
+# Free Guide -- Santa Cruz
+
+Welcome to the free guide. Santa Cruz edition.
+
+### Shelter & Help
+
+* Winter Shelter **4pm daily** _pickup past the tannery_ 1200 River St.
+
