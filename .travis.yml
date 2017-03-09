@@ -2,4 +2,4 @@ sudo: false
 addons:
   apt_packages:
     - pandoc
-script: make generate-site
+script: ls -la && make generate-site
