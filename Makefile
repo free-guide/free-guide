@@ -15,6 +15,8 @@ generate-site:
 	done
 
 release:
+	git config user.name 'Travis-CI'
+	git config user.email 'kirklloyd@gmail.com'
 	git config credential.helper 'store --file=.git/credentials'
 	@echo "https://$(GH_TOKEN):@github.com" > .git/credentials
 	git commit -m "Travis Build #$(TRAVIS_BUILD_NUMBER) [ci skip]" $$(find -name '*.html')
