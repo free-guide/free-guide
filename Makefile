@@ -19,6 +19,8 @@ release:
 	git config user.email 'kirklloyd@gmail.com'
 	git config --global push.default simple
 	git config credential.helper 'store --file=.git/credentials'
+	git checkout master
+	git pull
 	@echo "https://$(GH_TOKEN):@github.com" > .git/credentials
 	git commit -m "Travis Build #$(TRAVIS_BUILD_NUMBER) [ci skip]" $$(find -name '*.html')
 	git push
