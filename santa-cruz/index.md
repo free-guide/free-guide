@@ -39,7 +39,7 @@ Service | Times | Description | Address
 Service | Times | Description | Address
 --------|-------|-------------|--------
 **Homeless Services Center** | Mon-Fri 10am-1:30pm | Showers | 115 Coral St.
-**St. Francis Soup Kitchem** | Mon-Fri 11am-12:30pm | Showers | 205 Mora St.
+**St. Francis Soup Kitchen** | Mon-Fri 11am-12:30pm | Showers | 205 Mora St.
 **Library** | Mon-Thu 10am-7pm, Fri-Sat 10am-5pm, Sun 1-5pm |  | 224 Church St.205 Mora St.
 **Louden Nelson Center** | Mon-Sat 9am-9:30pm |  | 301 Center St.
 **Public Garage** | 6am-10pm | Locust/Cedar | 124 Locust St.
