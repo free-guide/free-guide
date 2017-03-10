@@ -10,6 +10,7 @@ generate-site:
 		pandoc -c $$relpath/style.css \
 		       --from=markdown_github \
 	               --to=html5 \
+		       --columns 5 \
 		       index.md -o index.html ;\
 		cd - ;\
 	done
