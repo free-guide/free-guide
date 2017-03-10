@@ -7,4 +7,4 @@ before_script:
 script:
   - make generate-site
 after_success:
-  - [ "$TRAVIS_BRANCH" = master ] && make release
+  - '[ "$TRAVIS_BRANCH" = master ] && make release'
