@@ -1,12 +1,10 @@
 # [Free Guide](../../) -- Santa Cruz
 
-
 Welcome to the free guide. Santa Cruz edition.
 
 **Last updated**: January 24, 2017
 
 ### Shelter & Help
-
 Service | Times | Description | Address | Phone
 --------|-------|-------------|---------|------
 **Winter Shelter** | 4pm daily | Pickup past The Tannery | 1200 River St. |
@@ -18,7 +16,6 @@ Service | Times | Description | Address | Phone
 **Suicide Prevention Hotline** |  | text: 741-741 |  | phone: 877-ONE-LIFE
 
 ### Meals
-
 Service | Times | Description | Address
 --------|-------|-------------|--------
 **Saint Francis Soup Kitchen** | Mon-Fri 12pm | Off River St. | 205 Mora St.
@@ -36,7 +33,6 @@ Service | Times | Description | Address
 **New Life Church** | Sun 12:30pm | Footbridge near Trader Joe's | San Lorenzo Park
 
 ### Showers & Toilets
-
 Service | Times | Description | Address
 --------|-------|-------------|--------
 **Homeless Services Center** | Mon-Fri 10am-1:30pm | Showers | 115 Coral St.
