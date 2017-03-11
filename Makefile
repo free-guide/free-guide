@@ -26,3 +26,7 @@ release:
 	git pull
 	git commit -m "Travis Build #$(TRAVIS_BUILD_NUMBER) [ci skip]" $$(find -name '*.html')
 	git push
+
+clean:
+	git reset --hard
+	git clean -f
