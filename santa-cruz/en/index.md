@@ -1,8 +1,9 @@
-# Free Guide -- Santa Cruz
+# [Free Guide](../../) -- Santa Cruz
+
 
 Welcome to the free guide. Santa Cruz edition.
 
-Last updated: January 24, 2017
+**Last updated**: January 24, 2017
 
 ### Shelter & Help
 
@@ -46,4 +47,3 @@ Service | Times | Description | Address
 **Public Garage** | 6am-10pm | Corner of Soquel and Front St. |
 **Portapotty** |  | Corner of Lincoln & Cedar St. |
 **Portapotty** |  | Center & Cedar St. parking log near Mission St. |
-
