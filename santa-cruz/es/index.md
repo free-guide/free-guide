@@ -5,7 +5,6 @@ Bienvenido a la guía gratuita. Edición de Santa Cruz.
 **Última actualización** 24 de enero de 2017
 
 ### Refugio y Ayuda
-
 Servicio | Tiempos | Descripción | Dirección | Teléfono
 ---------|---------|-------------|-----------|---------
 **Refugio de Invierno** | 4pm diario |  | recoger pasado Tannery 1220 River St. |
@@ -18,7 +17,6 @@ Servicio | Tiempos | Descripción | Dirección | Teléfono
 
 
 ### Comida
-
 Servicio | Tiempos | Descripción | Dirección
 ---------|---------|-------------|----------
 **Francis Comedor de Beneficencia** | Lun-Vie 12-1pm |  | 205 Mora St. St.
@@ -35,7 +33,6 @@ Servicio | Tiempos | Descripción | Dirección
 **Iglesia Nueva Vida** | Dom 12:30pm | San Lorenzo Park pasarela cerca Trader Joe’s |
 
 ### Duchas y baños
-
 Servicio | Tiempos | Descripción | Dirección
 ---------|---------|-------------|----------
 **Servicios para Personas Sin Hogar**| Lun-Vie 10am-1pm | Duchas | 115 Coral St.
