@@ -37,7 +37,7 @@ Servicio | Tiempos | Descripción | Dirección
 ---------|---------|-------------|----------
 **Servicios para Personas Sin Hogar**| Lun-Vie 10am-1pm | Duchas | 115 Coral St.
 **St. Francis Comedor de Beneficencia** | Duchas | Lun-Vie 11am-1pm | 205 Mora
-**Portapotty ** | 24 horas cada dia | Front St. cerca de Locust St. |
+**Portapotty** | 24 horas cada dia | Front St. cerca de Locust St. |
 **Garage Público** | 8am-10pm | Locust-Cedar | 124 Locust St.
 **Garage Público** | 8am-10pm | esquina Soquel and Front St. |
 **Portapotty** | 10pm-6am | esquina Lincoln St. y Cedar St. |
