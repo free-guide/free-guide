@@ -24,7 +24,7 @@ Servicio | Tiempos | Descripción | Dirección | Teléfono
 **Banco de alimentos** | Lunes-Viernes 8am-4:30pm | línea directa para comida |  | 831-662-0991
 
 
-### Duchas y baños
+### Ayuda
 Servicio | Descripción | Dirección
 ---------|-------------|----------
 **Community Bridges** | Programas, recursos, beneficios inscripción y alimentos | 831-688-8840 
