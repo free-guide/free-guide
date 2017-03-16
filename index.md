@@ -8,3 +8,6 @@
 
 ## Useful Links
 ####[Santa Cruz Food Not Bombs](https://people.ucsc.edu/~okdogulu/app/index.html)
+
+## About
+####[About Free Guide](about/)
