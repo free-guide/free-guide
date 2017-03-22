@@ -2,7 +2,7 @@
 
 Bienvenido a la guía gratuita. Edición de Santa Cruz.
 
-**Última actualización** 24 de enero de 2017
+**Última actualización** 22 de marzo de 2017
 
 ### Refugio y Ayuda
 Servicio | Tiempos | Descripción | Dirección | Teléfono
@@ -30,7 +30,6 @@ Servicio | Tiempos | Descripción | Dirección
 **La Comida No las Bombas** | Sab, Dom 4pm | Oficina Postal Esquina Front St. |
  |  | Sab 7:30am | NO el primer Sabado del mes San Lorenzo Park cerca Trader Joe’s |  |
 **Elm St. Mision** | Dom 10:30am | la puertas cierran a las 11:15am | 117 Elm St.
-**Iglesia Nueva Vida** | Dom 12:30pm | San Lorenzo Park pasarela cerca Trader Joe’s |
 
 ### Duchas y baños
 Servicio | Tiempos | Descripción | Dirección

@@ -2,7 +2,7 @@
 
 Welcome to the free guide. Santa Cruz edition.
 
-**Last updated**: January 24, 2017
+**Last updated**: March 22, 2017
 
 ### Shelter & Help
 Service | Times | Description | Address | Phone
@@ -26,11 +26,9 @@ Service | Times | Description | Address
 **Santa Cruz Revival** | Thu 4pm | behind Denny's on Ocean St. | 150A Felker St.
 **Grey Bears** | Thu & Fri 7am | Work for groceries & lunch | 2710 Chanticleer Ave.
 **Elm Street Mission** | Fri, Sat & Sun 4:30pm | Arrive before 5:15pm | 117 Elm St.
-**Santa Cruz Revival** | Sat 7:30am | NOT 1st Sat/month | San Lorenzo Park
 **Manna Ministries** | Sat Noon | Ressurection Church lot | 7600 Soquel Dr. Aptos
 **Food Not Bombs** | Sat & Sun 4pm | Front & Water St. | Downtown PostOffice
 **Elm Street Mission** | Sun 10:30am | arrive before 11:15am | 117 Elm St.
-**New Life Church** | Sun 12:30pm | Footbridge near Trader Joe's | San Lorenzo Park
 
 ### Showers & Toilets
 Service | Times | Description | Address
