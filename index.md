@@ -11,6 +11,7 @@
 * [Santa Cruz Free Guide Facebook](https://www.facebook.com/santacruzfreeguide/)
 * [Santa Cruz Guía Gratis Facebook](https://www.facebook.com/Santa-Cruz-Gu%C3%ADa-Gratis-1510472469253605/)
 * [Watsonville Free Guide Facebook](https://www.facebook.com/Watsonville-Free-Guide-1027370313991343/)
+* [Watsonville Guía Gratis Facebook](https://www.facebook.com/Watsonville-Gu%C3%ADa-Gratis-1654043201543312/)
 * [Hope Pray Love Our Poor Facebook](https://www.facebook.com/HopePrayLoveOurPoor/)
 * [Santa Cruz Free Guide Google Doc](https://docs.google.com/document/d/15sOPWmJLVxi0xlK6PIj1e5-pwCRaLGok8KpgXgNgV8A/)
 * [Santa Cruz Guia Gratis Google Doc](https://docs.google.com/document/d/1zFfrAd9m_zodTl7n4CrxgxhxFbz__RwuRXzwNja4J6g/)
@@ -20,3 +21,4 @@
 ## About
 * [About Free Guide](about/)
 * [Frequently Asked Questions](faq/)
+* email additions, corrections or changes to santacruzfreeguide@gmail.com
