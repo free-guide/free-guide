@@ -1,12 +1,4 @@
-## Free Guide
-* [Santa Cruz](santa-cruz/en)
-* [Watsonville](watsonville/en)
-
-## Guía Gratis
-* [Santa Cruz](santa-cruz/es)
-* [Watsonville](watsonville/es)
-
-## Useful Links
+## Links
 * [Santa Cruz County Free Guide App](https://people.ucsc.edu/~okdogulu/app/index.html)
 * [Santa Cruz Free Guide Facebook](https://www.facebook.com/santacruzfreeguide/)
 * [Santa Cruz Guía Gratis Facebook](https://www.facebook.com/Santa-Cruz-Gu%C3%ADa-Gratis-1510472469253605/)
