@@ -1,10 +1,10 @@
-# Free Guide
+# Santa Cruz County Free Guides
 
 ## Guides / Guías
-* [Santa Cruz Free Guide](d/SantaCruzFreeGuide.pdf)
-* [Santa Cruz Guía Gratis](d/SantaCruzGuíaGratis.pdf)
-* [Watsonville Free Guide](d/WatsonvilleFreeGuide.pdf)
-* [Watsonville Guía Gratis](d/WatsonvilleGuíaGratis.pdf)
+* [Santa Cruz Free Guide Printable Version](d/SantaCruzFreeGuide.pdf)
+* [Santa Cruz Guía Gratis Printable Version](d/SantaCruzGuíaGratis.pdf)
+* [Watsonville Free Guide Printable Version](d/WatsonvilleFreeGuide.pdf)
+* [Watsonville Guía Gratis Printable Version](d/WatsonvilleGuíaGratis.pdf)
 
 ## Google Docs
 * [Santa Cruz Free Guide Google Doc](https://docs.google.com/document/d/15sOPWmJLVxi0xlK6PIj1e5-pwCRaLGok8KpgXgNgV8A/)
